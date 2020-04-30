@@ -11,10 +11,10 @@ __NOTE__: Not every challenge in this repository is testable on your own, some r
   * Some sponsor challenges
 
 # Challenge authors
+  * [t0pc4r](https://github.com/bencarlisle15)
   * [drakemp]()
   * [lumpus]()
   * [shplaz]()
-  * [t0pc4r](https://github.com/GitHub)
   * [WittsEnd2](https://github.com/WittsEnd2)
 
 To view development procedures, check out DEVELOPMENT.md.
